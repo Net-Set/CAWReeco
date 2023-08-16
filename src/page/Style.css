@@ -1,0 +1,43 @@
+
+.tb{
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+.table-row-bottom td {
+    border-bottom: 1px solid #dee2e6; /* Customize the color if needed */
+    text-align: center;
+}
+  
+  .table-row-bottom:last-child td {
+    border-bottom: none;
+  }
+  .table-rounded-header {
+    border-collapse: separate;
+    border-spacing: 0;
+    border: none;
+    border-radius: 10px 10px 0 0;
+  }
+  
+  .table-rounded-header th {
+    border: none;
+    background-color: #f8f9fa; /* Set the background color of the header */
+    padding: 10px 15px;
+    text-align: center;
+   
+    font-weight: bold;
+  }
+  .table-rw{
+    border-radius: 10px 10px 0 0;
+    background-color: #274e75;
+  }
+  
+  .table-rounded-header th:first-child {
+    border-left: 1px solid #dee2e6; /* Left border for the first th */
+  }
+  
+  .table-rounded-header th:last-child {
+    border-right: 1px solid #dee2e6; /* Right border for the last th */
+  }
+  .icon-custom-color{
+    color: #1e633f; /* Replace with your desired color */
+  }

@@ -1,0 +1,10 @@
+.btns{
+    border-color:#1e633f;
+    border-radius: 20px;
+    color:#1e633f;
+    font-weight: bold;
+}
+.btns:hover{
+    border-color: #1e633f;
+    color:#1e633f;
+}
